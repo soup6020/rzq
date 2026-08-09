@@ -1,6 +1,5 @@
 {
-  description = "rzq — a fast, colourful command-line wrapper for Rizin";
-
+  description = "rzq — command-line wrapper for rizin";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
   outputs =
@@ -34,7 +33,7 @@
 
             meta = {
               description = "Fast, colourful command-line wrapper for common Rizin analysis tasks";
-              homepage = "https://github.com/ezradotexe/rzq";
+              homepage = "https://github.com/soup6020/rzq";
               license = pkgs.lib.licenses.mit;
               mainProgram = "rzq";
               platforms = systems;
