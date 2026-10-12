@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A fast, colourful command-line wrapper for common Rizin file-analysis tasks"
 license = "MIT"
-repository = "https://github.com/ezradotexe/rzq"
+repository = "https://github.com/soup6020/rzq"
 keywords = ["rizin", "reverse-engineering", "binary-analysis", "cli"]
 categories = ["command-line-utilities", "development-tools"]
 
